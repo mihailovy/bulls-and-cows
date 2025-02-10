@@ -1,0 +1,10 @@
+C:\Users\Boyan Mihaylov\source\repos\BullAndCow\BullAndCow\bin\Debug\BullAndCow.exe.config
+C:\Users\Boyan Mihaylov\source\repos\BullAndCow\BullAndCow\bin\Debug\BullAndCow.exe
+C:\Users\Boyan Mihaylov\source\repos\BullAndCow\BullAndCow\bin\Debug\BullAndCow.pdb
+C:\Users\Boyan Mihaylov\source\repos\BullAndCow\BullAndCow\obj\Debug\BullAndCow.csproj.AssemblyReference.cache
+C:\Users\Boyan Mihaylov\source\repos\BullAndCow\BullAndCow\obj\Debug\BullAndCow.Form1.resources
+C:\Users\Boyan Mihaylov\source\repos\BullAndCow\BullAndCow\obj\Debug\BullAndCow.Properties.Resources.resources
+C:\Users\Boyan Mihaylov\source\repos\BullAndCow\BullAndCow\obj\Debug\BullAndCow.csproj.GenerateResource.cache
+C:\Users\Boyan Mihaylov\source\repos\BullAndCow\BullAndCow\obj\Debug\BullAndCow.csproj.CoreCompileInputs.cache
+C:\Users\Boyan Mihaylov\source\repos\BullAndCow\BullAndCow\obj\Debug\BullAndCow.exe
+C:\Users\Boyan Mihaylov\source\repos\BullAndCow\BullAndCow\obj\Debug\BullAndCow.pdb
