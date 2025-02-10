@@ -54,5 +54,17 @@ namespace BullAndCow
             remainder = remainder % 10;
             numberEntered[3] = remainder;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int bulls = 0;
+            for (int i = 0; i < number.Length; i++)
+            {
+                if (number[i] == numberEntered[i])
+                {
+                    bulls++;
+                }
+            }
+        }
     }
 }
